@@ -1,33 +1,9 @@
-## Evaluating A/B testing results project
+## These projects (and many others) were completed during data analytics course at yandex.praktikum
 
 
-### Данные
-
-`ab_project_marketing_events.csv` — календарь маркетинговых событий на 2020 год.
-- name — название маркетингового события;
-- regions — регионы, в которых будет проводиться рекламная кампания;
-- start_dt — дата начала кампании;
-- finish_dt — дата завершения кампании.
-
-`final_ab_new_users.csv` — пользователи, зарегистрировавшиеся с 7 по 21 декабря 2020 года.
-- user_id — идентификатор пользователя;
-- first_date — дата регистрации;
-- region — регион пользователя;
-- device — устройство, с которого происходила регистрация.
-
-`final_ab_events.csv` — действия новых пользователей в период с 7 декабря 2020 по 4 января 2021 года.
-- user_id — идентификатор пользователя;
-- event_dt — дата и время покупки;
-- event_name — тип события;
-- details — дополнительные данные о событии.
-
-`final_ab_participants.csv` — таблица участников тестов.
-- user_id — идентификатор пользователя;
-- ab_test — название теста;
-- group — группа пользователя.
-
-### Задача
-Провести оценку результатов A/B-теста.  
-
-### Используемые библиотеки
-*pandas*, *matplotlib*, *seaborn*, *plotly*, *math*, *scipy*
+ Project  | Libraries used | 
+| :---------------------- | :---------------------- |
+| [Evaluating A/B testing results](ab_test_results) | *pandas*, *matplotlib*, *seaborn*, *plotly*, *math*, *scipy* |
+| [Statistical data analysis](statistic_data_analysis) | *pandas*, *numpy*, *scipy*, *seaborn*, *math*, *matplotlib* |
+| [Business metrics analysis](business_metrics_analysis) | *pandas*, *matplotlib*, *seaborn*, *numpy* |
+| [Business decision-making](business_decision_making) | *pandas*, *numpy*, *scipy*, *statsmodels*, *matplotlib* |
