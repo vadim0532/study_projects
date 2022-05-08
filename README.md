@@ -1,4 +1,4 @@
-## These projects (and many others) were completed during training at Yandex.Practice, the Data Analyst profession.
+## These projects (and many others) were completed during data analytics course at yandex.praktikum.
 
 
  Project  | Libraries used | 
