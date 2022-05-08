@@ -19,7 +19,7 @@ Evaluating A/B testing results project
 - user_id — идентификатор пользователя;
 - event_dt — дата и время покупки;
 - event_name — тип события;
-- details — дополнительные данные о событии. Например, для покупок, `purchase,` в этом поле хранится стоимость покупки в долларах.
+- details — дополнительные данные о событии.
 
 `final_ab_participants.csv` — таблица участников тестов.
 - user_id — идентификатор пользователя;
@@ -30,4 +30,4 @@ Evaluating A/B testing results project
 Провести оценку результатов A/B-теста.  
 
 ## Используемые библиотеки
-*pandas*,*matplotlib*,*seaborn*,*plotly*,*math*,*scipy*
+*pandas*, *matplotlib*, *seaborn*, *plotly*, *math*, *scipy*
