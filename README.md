@@ -1,4 +1,4 @@
-## These projects (and many others) were completed during data analytics course at yandex.praktikum.
+## These projects (and many others) were completed during data analytics course at yandex.praktikum
 
 
  Project  | Libraries used | 
