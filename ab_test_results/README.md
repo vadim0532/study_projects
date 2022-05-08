@@ -1,7 +1,7 @@
-Evaluating A/B testing results project
+## Evaluating A/B testing results project
 
 
-## Данные
+### Данные
 
 `ab_project_marketing_events.csv` — календарь маркетинговых событий на 2020 год.
 - name — название маркетингового события;
@@ -26,8 +26,8 @@ Evaluating A/B testing results project
 - ab_test — название теста;
 - group — группа пользователя.
 
-## Задача
+### Задача
 Провести оценку результатов A/B-теста.  
 
-## Используемые библиотеки
+### Используемые библиотеки
 *pandas*, *matplotlib*, *seaborn*, *plotly*, *math*, *scipy*
